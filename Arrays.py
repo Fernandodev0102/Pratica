@@ -1,3 +1,6 @@
+
+
+# Teste para somar determinado valor em um array
 Array = ["a","d",2,"a","d",2,"a","d",2,"a","d",2,"a","d",2,"a","d",2]
 Soma = 0
 for i in range(0,len(Array),3):
